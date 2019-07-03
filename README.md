@@ -2,7 +2,7 @@
 Sample application for creating an ar business card using ar.js
 
 
-#Resources
+## Resources
 
 * Adapted from AR.js examples by 
 * Uses AR.js
